@@ -21,7 +21,7 @@
 ## ACHIEVEMENT
 
 
-![Problem Solving Basic Certificate](Python-problem-solving.png){:height="10%" width="10%"}
+![Problem Solving Basic Certificate](Python-problem-solving.png = 10x20)
   
 
 ![Problem Solving Intermediate Certificate](Screenshot from 2021-06-28 11-03-08.png)
