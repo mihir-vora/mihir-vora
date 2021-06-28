@@ -20,9 +20,9 @@
 
 ## ACHIEVEMENT
 
-1  |  2
---------------------------------------------------------------------------------------------
 
-![Problem Solving (Basic) Certificate](Screenshot from 2021-06-28 11-02-57.png)  | ![Problem Solving (Intermediate) Certificate](Screenshot from 2021-06-28 11-03-08.png)
+![Problem Solving (Basic) Certificate](Screenshot from 2021-06-28 11-02-57.png)  
+
+![Problem Solving (Intermediate) Certificate](Screenshot from 2021-06-28 11-03-08.png)
 
   
