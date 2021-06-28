@@ -20,9 +20,8 @@
 
 ## ACHIEVEMENT
 
-1                                                    |        2
------------------------------------------------------|------------------------------------------------------
-
-![Problem Solving Basic Certificate](a-a.png)        | ![Problem Solving Intermediate Certificate](a-a-a.png)
+|1                                                    |        2                                              |
+|-----------------------------------------------------|-------------------------------------------------------|
+|![Problem Solving Basic Certificate](a-a.png)        | ![Problem Solving Intermediate Certificate](a-a-a.png)|
 
   
