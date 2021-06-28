@@ -8,7 +8,7 @@
 
 ## SKILLS
  
-**  - A FullStack Developer 
+  - A FullStack Developer 
   - Problem Solving(Python)
   - Data Structure  and Algorithm
   - Frontend - JavaScript (ofcourse), HTML5
@@ -16,7 +16,7 @@
   - Database - MySQL
   - Dev Tools - Git And Github
   - Data Analytics - Numpy, pandas, Matplotlib
-  - Web Scraping - ( Request, Beautiful Soup) etc... **
+  - Web Scraping - ( Request, Beautiful Soup) etc... 
 
 ## ACHIEVEMENT
   
