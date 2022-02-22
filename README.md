@@ -21,7 +21,7 @@
   - Web Scraping - ( Request, Beautiful Soup) etc... 
 
 
-|![![Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ervoramihir)](https://github.com/anuraghazra/github-readme-stats)|![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ervoramihir&layout=compact)](https://github.com/ervoramihir/github-readme-stats)|
+|[![Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ervoramihir)](https://github.com/anuraghazra/github-readme-stats) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ervoramihir&layout=compact)](https://github.com/ervoramihir/github-readme-stats)|
 
 ## ACHIEVEMENT
 
