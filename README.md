@@ -20,6 +20,10 @@
   - Data Analytics - Numpy, pandas, Matplotlib
   - Web Scraping - ( Request, Beautiful Soup) etc... 
 
+
+
+|<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<ervoramihir>&theme=<radical>" />|
+
 ## ACHIEVEMENT
 
 |1                                                    |        2                                              |
@@ -27,4 +31,3 @@
 |![Problem Solving Basic Certificate](a-a.png)        | ![Problem Solving Intermediate Certificate](a-a-a.png)|
 
   
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
