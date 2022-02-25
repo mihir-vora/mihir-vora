@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @ervoramihir
+<p align="center">
+        👋 Hi, I’m @ervoramihir
+</p>
 
 # Web Developer
 
