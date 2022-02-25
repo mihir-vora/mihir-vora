@@ -2,6 +2,8 @@
         👋 Hi, I’m @ervoramihir
 </p>
 
+![](https://komarev.com/ghpvc/?username=ervoramihir)
+
 # Web Developer
 
 ## About me
