@@ -6,16 +6,15 @@
 
 ###### **SKILLS**
         - Languages:  Python, JavaScript
-        - Frameworks/Libraries:  Django, FlaskWeb 
-        - Technologies:  HTML5, Bootstrap, CSS(Basic), RESTful API
+        - Frameworks/Libraries:  Django, Flask
+        - Web Technologies:  HTML5, Bootstrap, CSS(Basic), RESTful API
         - Database Management:  MySQL, SQLite
         - Tools/Platforms:  Git, Github, Ubuntu, VS Code
 
 <!-- 
 ###### **  [Python HackerRank Badges](https://www.hackerrank.com/mihirvora)**
 ![Python HackerRank Badge](Screenshot_from_2021-06-28_11-08-50-removebg-preview.png?raw=true)
- -->
-. 
+ --> 
 
 
 
