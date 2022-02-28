@@ -4,6 +4,8 @@
 
 
 ## Languages and Tools:
+![](https://img.shields.io/badge/<HTML>-<WORD_ON_RIGHT>-informational?style=flat&logo=assets/html5-original-wordmark.svg&logoColor=white&color=2bbc8a)
+
 
 
 
