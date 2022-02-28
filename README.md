@@ -33,11 +33,12 @@
         <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-## Courses/Tutorials
-- [How to quickstart and launch your website using Jekyll?](https://www.creative-tim.com/blog/webdesign/quickstart-launch-website-using-jekyll)
-- [How to create Scrolling Transformations for your React App?](https://www.creative-tim.com/blog/webdesign/create-scrolling-transformations-react-app)
-- [How to create a single-page application using React?](https://www.creative-tim.com/blog/react/create-single-page-application-using-react)
 
+
+<!-- for the herokuapp -->
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=timcreative&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /> -->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ervoramihir&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ervoramihir&layout=compact&theme=cobalt&hide_border=true" />
 
 
 <!-- ###### **SKILLS**
@@ -56,9 +57,9 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ervoramihir&show_icons=true)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ervoramihir&layout=compact)](https://github.com/ervoramihir/github-readme-stats)
+<!-- ![Vora Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ervoramihir&show_icons=true)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ervoramihir&layout=compact)](https://github.com/ervoramihir/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ervoramihir&repo=github-readme-stats)]
-
+ -->
 
 
 <!-- ## ACHIEVEMENT
@@ -66,5 +67,10 @@
 |1                                                    |        2                                              |
 |-----------------------------------------------------|-------------------------------------------------------|
 |![Problem Solving Basic Certificate](a-a.png)        | ![Problem Solving Intermediate Certificate](a-a-a.png)| -->
+
+
+## Contact Me
+[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vora-mihir-80b92715b/)
+[<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/)
 
   
