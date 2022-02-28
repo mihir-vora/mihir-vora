@@ -1,11 +1,10 @@
-<p align="center">
-        ##Hi !<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, ## I’m @voramihir
-</p>
+## Hi !<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I’m @voramihir
 
 ![](https://komarev.com/ghpvc/?username=ervoramihir)
 
 
-Languages and Tools:
+## Languages and Tools:
+
 
 
 <!-- ###### **SKILLS**
