@@ -1,19 +1,20 @@
 <p align="center">
-        👋 Hi, I’m @ervoramihir
+        ##Hi !<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, ## I’m @voramihir
 </p>
 
 ![](https://komarev.com/ghpvc/?username=ervoramihir)
 
-# Web Developer
 
-## About me
+Languages and Tools:
 
-###### **SKILLS**
+
+<!-- ###### **SKILLS**
         - Languages:  Python, JavaScript
         - Frameworks/Libraries:  Django, Flask
         - Web Technologies:  HTML5, Bootstrap, CSS(Basic), RESTful API
         - Database Management:  MySQL, SQLite
         - Tools/Platforms:  Git, Github, Ubuntu, VS Code
+-->
 
 <!-- 
 ###### **  [Python HackerRank Badges](https://www.hackerrank.com/mihirvora)**
@@ -24,7 +25,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ervoramihir&show_icons=true)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ervoramihir&layout=compact)](https://github.com/ervoramihir/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ervoramihir&repo=github-readme-stats)]
 
 
 
