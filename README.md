@@ -1,4 +1,14 @@
-## Hi !<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I’m @voramihir
+<div align="center">
+        <img src="assets/68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67.png" width="900px">
+        <br/>
+</div>
+<h1 align="center">
+    <b> 
+        Hi !<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I’m @voramihir        
+    </b>
+</h1>
+
+
 
 ![](https://komarev.com/ghpvc/?username=ervoramihir)
 
