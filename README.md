@@ -10,7 +10,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=ervoramihir)
+<!-- ![](https://komarev.com/ghpvc/?username=ervoramihir) -->
 
 ## Programming languages:
 <p>
