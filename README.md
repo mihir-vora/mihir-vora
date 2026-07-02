@@ -15,7 +15,7 @@ Building scalable backend systems, microservices, AI-powered applications, and c
 
 ## 👨‍💻 About Me
 
-- 💼 Backend Software Engineer with **3+ years** of experience
+- 💼 Backend Software Engineer with **3.5+ years** of experience
 - 🚀 Building scalable backend systems using **Golang** and **Python**
 - ⚡ Passionate about Distributed Systems, Microservices & AI
 - 🤖 Building LLM-powered applications using OpenAI & Gemini
