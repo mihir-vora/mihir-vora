@@ -1,101 +1,161 @@
 <div align="center">
-        <img src="assets/68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67.png" width="900px">
-        <br/>
+
+# Hi 👋, I'm Mihir Vora
+
+### Backend Software Engineer | Golang | Python | Distributed Systems | AI
+
+Building scalable backend systems, microservices, AI-powered applications, and cloud-native platforms.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mihir%20Vora-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vora-mihir-80b92715b/)
+[![Email](https://img.shields.io/badge/Email-er.voramihir%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:er.voramihir@gmail.com)
+
 </div>
-<h1 align="center">
-    <b> 
-        Hi !<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px" height="25px">, I’m @voramihir        
-    </b>
-</h1>
 
+---
 
+## 👨‍💻 About Me
 
-<!-- ![](https://komarev.com/ghpvc/?username=ervoramihir) -->
+- 💼 Backend Software Engineer with **3+ years** of experience
+- 🚀 Building scalable backend systems using **Golang** and **Python**
+- ⚡ Passionate about Distributed Systems, Microservices & AI
+- 🤖 Building LLM-powered applications using OpenAI & Gemini
+- ☁️ Experienced with AWS, Docker & Kubernetes
+- 📍 Bengaluru, India
 
-## Programming languages:
+---
+
+# 🚀 Tech Stack
+
+## Programming Languages
+
 <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+<img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-## Web Technologies:
+---
+
+## Backend
+
 <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-        <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microservices-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
 </p>
 
-## Frameworks and Libraries:
+---
+
+## Databases & Messaging
+
 <p>
-        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </p>
 
-## Tools:
+---
+
+## Cloud & DevOps
+
 <p>
-        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-        <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-        <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 </p>
 
-## Databases        
+---
+
+## AI & LLM
+
 <p>
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tool_Calling-blueviolet?style=for-the-badge"/>
 </p>
 
-## OS:
+---
+
+## Core Skills
+
+- Distributed Systems
+- Microservices
+- High Performance APIs
+- REST APIs
+- gRPC
+- Event Driven Architecture
+- Background Jobs
+- Asynchronous Processing
+- Redis Caching
+- Query Optimization
+- Database Design
+- System Design
+- API Integrations
+- AI Agent Orchestration
+
+---
+
+# 💼 Featured Projects
+
+### 🚀 Enterprise Reporting Platform
+- Built asynchronous reporting platform
+- 200+ report types
+- Millions of records processed
+- Celery, Dask, PostgreSQL, AWS S3
+
+### ⚡ Citadel Configuration Service
+- High-performance gRPC configuration service
+- Redis Cache-first architecture
+- 2.5M+ requests/day
+- Automated tenant provisioning
+
+### 🤖 AI Agent Tool Orchestration
+- Multi-provider LLM framework
+- OpenAI & Gemini
+- Tool Calling
+- Calendar Scheduling
+- Human Handoff
+
+### 📩 Enterprise SMS Platform
+- Twilio Integration
+- OAuth Webhooks
+- Unicode Support
+- Usage Billing
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mihir-vora&show_icons=true&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-vora&layout=compact&theme=github_dark"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
 <p>
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+<a href="mailto:er.voramihir@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vora-mihir-80b92715b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </p>
 
+---
 
-
-<!-- for the herokuapp -->
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=timcreative&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /> -->
-
-## Vora Mihir's GitHub Stats:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihir-vora&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-vora&layout=compact&theme=cobalt&hide_border=true" />
-
-
-<!-- ###### **SKILLS**
-        - Languages:  Python, JavaScript
-        - Frameworks/Libraries:  Django, Flask
-        - Web Technologies:  HTML5, Bootstrap, CSS(Basic), RESTful API
-        - Database Management:  MySQL, SQLite
-        - Tools/Platforms:  Git, Github, Ubuntu, VS Code
--->
-
-<!-- 
-###### **  [Python HackerRank Badges](https://www.hackerrank.com/mihirvora)**
-![Python HackerRank Badge](Screenshot_from_2021-06-28_11-08-50-removebg-preview.png?raw=true)
- --> 
-
-
-
-
-<!-- ![Vora Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihir-vora&show_icons=true)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-vora&layout=compact)](https://github.com/mihir-vora/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mihir-vora&repo=github-readme-stats)]
- -->
-
-
-<!-- ## ACHIEVEMENT
-
-|1                                                    |        2                                              |
-|-----------------------------------------------------|-------------------------------------------------------|
-|![Problem Solving Basic Certificate](a-a.png)        | ![Problem Solving Intermediate Certificate](a-a-a.png)| -->
-
-
-## Contact Me:
-[<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vora-mihir-80b92715b/)
-[<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/)
-
-  
+⭐ If you like my work, feel free to connect or collaborate!
